@@ -1,4 +1,4 @@
-<form name="approved-comments">
+<form name="fo">
   <input type="text" name="full-name">
   <input type="text" name="path">
   <input type="text" name="received">
